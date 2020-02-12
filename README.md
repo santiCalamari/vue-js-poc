@@ -1,4 +1,4 @@
-# folder-front-end
+# Prueba de concepto Vue.js
 
 ## Project setup
 ```
